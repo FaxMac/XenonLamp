@@ -19,4 +19,4 @@ inside of the main.py file you'll find `bot.run()` and direction = `("X.X.X.X", 
 TO-DO
 ------
 - [ ] Make a slash command that edits the IP and port, that is only usable for admins
-- [ ] When using `/list` when the server timeout occurs, it raises a 404 error, figure out what is going on with that
+- [ ] When using `/list` when a server timeout occurs (like when the game server is offline), it raises a 404 error, figure out what is going on with that
