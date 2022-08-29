@@ -14,7 +14,7 @@ Requirements
 
 Usage
 ------
-inside of the main.py file you'll find `bot.run()` and direction = `("X.X.X.X", 27015)`, in the first one you put your discord bot token and in the second you put your IP + Port. Pretty self-explanitory.
+inside of the main.py file you'll find `bot.run()` and `direction = ("X.X.X.X", 27015)`, in the first one you put your discord bot token and in the second you put your IP + Port. Pretty self-explanitory.
 
 TO-DO
 ------
